@@ -1,8 +1,8 @@
-# UPI — Universal Physics Index
+# AI-UPI Physics Engine
 
-UPI is an exploratory research repository for organizing physical relations, information-theoretic concepts, computational models, and conceptual systems architectures.
+**AI-UPI Physics Engine** (AI-UPI) is an exploratory research and software project for organizing physical relations, information-theoretic concepts, computational models, and conceptual systems architectures.
 
-The repository is intended to support traceable scientific discussion. It is **not** a completed theory of everything, a substitute for peer review, or evidence that every documented mechanism has been experimentally verified.
+The repository is intended to support traceable scientific discussion and reproducible model development. It is **not** a completed theory of everything, a substitute for peer review, or evidence that every documented mechanism has been experimentally verified.
 
 ## Scientific classification
 
@@ -20,7 +20,7 @@ This classification prevents established physics from being conflated with explo
 
 ## Scope
 
-The current repository discusses four broad areas:
+AI-UPI currently discusses four broad areas:
 
 1. **Physical relations** — energy, frequency, mass-energy equivalence, thermodynamics, and selected concepts from gravitational and quantum physics.
 2. **Information theory** — Shannon entropy, Gibbs entropy, maximum-entropy methods, stochastic processes, and signal analysis.
@@ -143,9 +143,9 @@ For each proposed node, equation, or mechanism:
 
 ## Current development status
 
-UPI is currently an **exploratory documentation and model-development repository**. The scientific content varies in maturity and should be reviewed node by node.
+AI-UPI Physics Engine is currently an **exploratory documentation and model-development project**. The scientific content varies in maturity and should be reviewed node by node.
 
-The repository does not currently claim:
+The project does not currently claim:
 
 - a complete or experimentally confirmed theory of everything;
 - a universally valid \(8\,\mathrm{Hz}\) mechanism;
